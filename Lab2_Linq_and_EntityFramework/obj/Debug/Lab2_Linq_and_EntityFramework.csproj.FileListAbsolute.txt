@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Lab2_Linq_and_EntityFramework\Lab2_Linq_and_EntityFramework\bin\Debug\Lab2_Linq_and_EntityFramework.exe.config
+C:\Users\User\source\repos\Lab2_Linq_and_EntityFramework\Lab2_Linq_and_EntityFramework\bin\Debug\Lab2_Linq_and_EntityFramework.exe
+C:\Users\User\source\repos\Lab2_Linq_and_EntityFramework\Lab2_Linq_and_EntityFramework\bin\Debug\Lab2_Linq_and_EntityFramework.pdb
+C:\Users\User\source\repos\Lab2_Linq_and_EntityFramework\Lab2_Linq_and_EntityFramework\obj\Debug\Lab2_Linq_and_EntityFramework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab2_Linq_and_EntityFramework\Lab2_Linq_and_EntityFramework\obj\Debug\Lab2_Linq_and_EntityFramework.exe
+C:\Users\User\source\repos\Lab2_Linq_and_EntityFramework\Lab2_Linq_and_EntityFramework\obj\Debug\Lab2_Linq_and_EntityFramework.pdb
